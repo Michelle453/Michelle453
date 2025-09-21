@@ -17,7 +17,7 @@ I apply methodologies such as **CDIO** and **SCRUM** to lead projects from conce
 
 💡 I transform ideas into **effective technological solutions** that respond to environmental and industry needs.  
 
-<br>
+
 
 ## 🛠 &nbsp;Tech Stack
 
