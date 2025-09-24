@@ -1,13 +1,13 @@
 <h1 align="center"><b>Hi there! I'm Michelle Berrio Sánchez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Electronic+Engineer;Programmer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronic+Engineer;Software+Engineer;Programmer;Tech+Enthusiast;Always+learning+new+things"></a>
 </p>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-I am an **Electronic Engineer** passionate about designing and implementing innovative technological solutions in **telecommunications, digital systems, and software engineering**.  
-I apply methodologies such as **CDIO** and **SCRUM** to lead projects from conception to operation, ensuring efficiency, scalability, and real-world impact.  
+I am an **Electronic Engineer** passionate about designing and implementing innovative technological solutions in **telecommunications, digital systems, IoT, automation and control, and software engineering.**
+I apply methodologies such as CDIO and SCRUM to lead projects from conception to operation, ensuring efficiency, scalability, and real-world impact.
 
 ✨ **What defines me:**  
 - Strong background in **clean architecture, design patterns, and SOLID principles**.  
@@ -66,6 +66,9 @@ I apply methodologies such as **CDIO** and **SCRUM** to lead projects from conce
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![TablePlus](https://img.shields.io/badge/TablePlus-F58D2F?style=for-the-badge&logo=tableplus&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&color=21D789)
+
 
 #### 🔬 Low-Level & Hardware Description Languages
 
