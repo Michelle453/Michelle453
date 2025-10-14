@@ -1,23 +1,22 @@
-<h1 align="center"><b>Hi there! I'm Michelle Berrio Sánchez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola! Soy Michelle Berrio Sánchez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronic+Engineer;Software+Engineer;Programmer;Tech+Enthusiast;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniera+Electrónica;Desarrolladora+de+Software;Desarrolladora+Java;Apasionada+por+la+Tecnología;Siempre+Aprendiendo+Cosas+Nuevas"></a>
 </p>
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Perfil
 
-I am an **Electronic Engineer** passionate about designing and implementing innovative technological solutions in **telecommunications, digital systems, IoT, automation and control, and software engineering.**
-I apply methodologies such as CDIO and SCRUM to lead projects from conception to operation, ensuring efficiency, scalability, and real-world impact.
+Soy Ingeniera Electrónica apasionada por el desarrollo de software y la creación de soluciones tecnológicas innovadoras que integran hardware y software.
+Tengo experiencia trabajando con Java, HTML, JavaScript y Python, aplicando principios de programación orientada a objetos, patrones de diseño y buenas prácticas de código limpio para desarrollar aplicaciones eficientes y escalables.
 
-✨ **What defines me:**  
-- Strong background in **clean architecture, design patterns, and SOLID principles**.  
-- Experience in **IoT, microcontrollers, networking protocols, telematics, and Software Defined Networking (SDN)**.  
-- Ability to bridge **hardware, software, and networks** to create integrated solutions.  
-- Commitment to **collaboration, adaptability, and continuous learning**.  
+✨ Lo que me define:
 
-💡 I transform ideas into **effective technological solutions** that respond to environmental and industry needs.  
+- Conocimientos sólidos en desarrollo con Java, POO y arquitectura de software.
+- Experiencia en IoT, automatización y tecnologías web, conectando hardware y software.
+- Familiaridad con metodologías CDIO y SCRUM para la gestión ágil de proyectos.
+- Habilidades para la resolución de problemas, adaptabilidad y aprendizaje continuo.
 
-
+💡 Disfruto transformar ideas en soluciones de software funcionales y significativas, aportando al desarrollo de proyectos colaborativos con impacto real.
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -34,9 +33,7 @@ I apply methodologies such as CDIO and SCRUM to lead projects from conception to
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
 
 #### 🗄️ Databases
 
@@ -47,13 +44,6 @@ I apply methodologies such as CDIO and SCRUM to lead projects from conception to
 #### 📊 Data
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-#### ☁️ Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 #### 🔧 Tools
 
@@ -77,15 +67,17 @@ I apply methodologies such as CDIO and SCRUM to lead projects from conception to
 ![VHDL](https://img.shields.io/badge/VHDL-54397C?style=for-the-badge&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-BA1B1D?style=for-the-badge&logoColor=white)
 
-## 🚀 Projects  
+## 🚀 Proyectos Destacados
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🗣️ Personal Voice Assistant | Voice-controlled assistant integrating **Spotify API**, **ChatGPT API**, and **facial recognition with OpenCV**, running on **Raspberry Pi** and **ESP32**. | Python, APIs, OpenCV, Raspberry Pi, ESP32 |
-| 🛠️ RCM Maintenance System | Web system for **maintenance management** of lab equipment using **RCM methodology**. | JS, HTML5, CSS3, PHP, Laravel, MySQL |
-| 📱 OneDroid – Touristic App | Mobile app to promote tourism in **San Andrés Islas**, integrating **Google GPS API** for location services. | Kotlin, Android Studio, APIs, Google GPS |
-| 🏠 Real Estate Platform | Web platform for real estate management with **MVC architecture**, **SASS styling**, and **automated mailing with Mailtrap**. | PHP, JS, MVC, HTML5, Sass, Composer, NPM, Gulp, Mailtrap |
-| 💧 Wastewater Automation System | IoT-based system for **wastewater treatment and reuse** (non-human/animal consumption) using **ESP32**, **pH sensors**, and automated purification units. | ESP32, IoT Sensors, Automation |
+| 🧩 **Proyecto** | 📝 **Descripción** | ⚙️ **Tecnologías** |
+|-----------------|------------------|-------------------|
+| 🗣️ **Asistente de Voz Personal** | Asistente controlado por voz que integra la **API de Spotify**, la **API de ChatGPT** y **reconocimiento facial con OpenCV**, ejecutado en **Raspberry Pi** y **ESP32**. | Python, APIs, OpenCV, Raspberry Pi, ESP32 |
+| 🛠️ **Sistema de Mantenimiento RCM** | Sistema web para la **gestión de mantenimiento** de equipos de laboratorio utilizando la **metodología RCM** (Reliability-Centered Maintenance). | JavaScript, HTML5, CSS3, PHP, Laravel, MySQL |
+| 📱 **OneDroid – Aplicación Turística** | Aplicación móvil para promover el turismo en **San Andrés Islas**, integrando la **API de Google GPS** para servicios de localización. | Kotlin, Android Studio, APIs, Google GPS |
+| 🏠 **Plataforma Inmobiliaria** | Plataforma web para la gestión inmobiliaria con **arquitectura MVC**, **estilos con SASS** y **envío automatizado de correos con Mailtrap**. | PHP, JavaScript, MVC, HTML5, Sass, Composer, NPM, Gulp, Mailtrap |
+| 💧 **Sistema de Automatización de Aguas Residuales** | Sistema basado en **IoT** para el **tratamiento y reutilización de aguas residuales** (no aptas para consumo humano o animal) mediante **ESP32**, **sensores de pH** y unidades de purificación automatizadas. | ESP32, Sensores IoT, Automatización |
+
+
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with Me 🤝 </h3>
 
