@@ -84,9 +84,9 @@ Tengo experiencia trabajando con Java, HTML, JavaScript y Python, aplicando prin
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/michelle-berrio-sanchez">
+        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/michelle-berrio-sanchez/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/michelle-berrio-sanchez/">
 		
 	 
 
